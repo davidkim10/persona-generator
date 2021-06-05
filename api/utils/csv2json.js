@@ -1,21 +1,7 @@
 // CSV to JSON Converter
 const fs = require('fs');
 const generateHobby = require('./generateHobby');
-
-const generateSocial = (results = 1) => {
-  const social = [
-    'Facebook',
-    'Twitter',
-    'Instagram',
-    'Pinterest',
-    'LinkedIn',
-    'Snapchat',
-    'Tumblr',
-    'TikTok',
-  ];
-
-  return social.sort(() => Math.random() - Math.random()).slice(0, results);
-};
+const generateSocial = require('./generateSocial');
 
 const csv = fs
   .readFileSync('../csv/persona-data.csv', 'utf-8')
@@ -42,4 +28,4 @@ const csv = fs
 
 // Output .db file for json-server
 // Doc: https://my-json-server.typicode.com/
-fs.writeFileSync('../client/src/db.json', JSON.stringify(csv));
+fs.writeFileSync('../db.json', JSON.stringify(csv));

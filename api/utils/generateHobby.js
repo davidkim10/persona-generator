@@ -1,5 +1,3 @@
-// Random hobby generator
-
 const generateHobby = (results = 1) => {
   const hobbies = [
     '3D printing',
