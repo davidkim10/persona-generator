@@ -1,0 +1,101 @@
+First Name,Last Name,Gender,Age,Email,Phone,College,Occupation Title,Average Pay,Highest Pay,Marital Status
+Steven,Moore,Male,20,s.moore@randatmail.com,898-5800-48,University of Florida,Securities Compliance Examiner,181645.32,244184.00,Married
+Victoria,Crawford,Female,28,v.crawford@randatmail.com,926-5940-85,Indiana University Bloomington,Patent Attorney,170324.14,199225.00,Single
+Tara,Morris,Female,24,t.morris@randatmail.com,322-5185-54,Ohio State University,Nurse Anesthetist (title 38),168287.36,207800.00,Single
+James,Stewart,Male,26,j.stewart@randatmail.com,585-1667-02,University of Wisconsin-Madison,Patent Administrator,166874.05,187148.00,Married
+Naomi,Taylor,Female,29,n.taylor@randatmail.com,601-3895-97,Penn State University,Administrative Law Judge,163169.71,183425.00,Single
+Kristian,Perkins,Male,27,k.perkins@randatmail.com,474-5733-46,Clemson University,Technical Systems Program Manager,153384.09,199548.00,Single
+Lily,Walker,Female,25,l.walker@randatmail.com,390-5808-44,Arizona State University,General Mathematican/Statistician,153383.31,241600.00,Married
+Alina,Hamilton,Female,23,a.hamilton@randatmail.com,072-5418-60,University of Illinois Urbana-Champaign,Chief Engineer,151178.77,165164.00,Married
+Jared,Ellis,Male,30,j.ellis@randatmail.com,121-0914-76,University of Georgia,Metallurgist,149602.23,187000.00,Married
+April,Murray,Female,18,a.murray@randatmail.com,685-6230-57,Purdue University,Patent Classifying,144385.10,169995.00,Married
+Ned,Kelley,Male,18,n.kelley@randatmail.com,141-1281-66,University of Michigan,Astronomy and Space Scientist,141854.48,181562.00,Married
+Gianna,Cunningham,Female,27,g.cunningham@randatmail.com,294-6850-64,Texas A&M University,Program Manager,141691.94,334175.00,Single
+Eleanor,Sullivan,Female,29,e.sullivan@randatmail.com,074-6153-63,Brigham Young University,General Attorney,139209.77,287774.00,Married
+Daryl,Armstrong,Male,25,d.armstrong@randatmail.com,188-0973-14,University of South Carolina,Mathematician,137429.97,258616.00,Married
+Julian,Foster,Male,25,j.foster@randatmail.com,678-5859-97,University of Alabama,Physicist,137380.22,270400.00,Single
+Charlie,Bailey,Male,27,c.bailey@randatmail.com,127-5756-72,University of Arizona,Financial Analyst,136575.52,286345.00,Married
+Aiden,Moore,Male,21,a.moore@randatmail.com,667-4864-29,University of Central Florida,Patent Adviser,136010.67,161900.00,Married
+Kevin,Hall,Male,22,k.hall@randatmail.com,109-8777-36,Michigan State University,Financial Manager,135006.47,255554.00,Married
+Dainton,Thomas,Male,21,d.thomas@randatmail.com,005-0253-97,University of Kentucky,Fish and Wildlife Administrator,134021.85,187000.00,Single
+Tiana,Morgan,Female,21,t.morgan@randatmail.com,710-6187-19,Baylor University,Health System Administrator,130855.02,225398.00,Single
+Dexter,Foster,Male,28,d.foster@randatmail.com,234-8342-33,University of Texas at Austin,Computer Scientist,130658.25,220000.00,Single
+Kirsten,Higgins,Female,23,k.higgins@randatmail.com,931-4780-00,University of Colorado Boulder,Financial Institution Examiner,129470.85,288524.00,Single
+Miranda,Johnston,Female,25,m.johnston@randatmail.com,063-9733-36,University of Iowa,Aerospace Engineer,128827.22,193840.00,Married
+Roman,Thompson,Male,20,r.thompson@randatmail.com,548-0813-44,North Carolina State University,Actuarial Scientist,128738.14,187000.00,Married
+Paul,Hunt,Male,20,p.hunt@randatmail.com,567-7394-56,University of Virginia,Pharmacologist,128099.34,248699.00,Married
+Miley,Stevens,Female,26,m.stevens@randatmail.com,617-9292-92,Texas Tech University,Zoologist,127859.44,173417.00,Single
+Emma,Cunningham,Female,26,e.cunningham@randatmail.com,954-9070-92,Miami University (Ohio),General Engineer,127312.16,252450.00,Single
+Harold,Ferguson,Male,26,h.ferguson@randatmail.com,525-1211-44,University of Notre Dame,Electronics Engineer,126852.81,192879.00,Married
+Alissa,Cameron,Female,27,a.cameron@randatmail.com,955-7839-18,University of Arkansas,Medical Officer,126560.27,390000.00,Single
+Ellia,Dixon,Female,29,e.dixon@randatmail.com,261-1852-49,University of Utah,Photographic Technology,126494.80,165480.00,Married
+Adele,Armstrong,Female,22,a.armstrong@randatmail.com,158-8569-51,University of Cincinnati,Computer Engineer,126288.20,199869.00,Single
+James,Chapman,Male,27,j.chapman@randatmail.com,938-9590-92,Grand Valley State University,Cryptanalyst,125324.94,163900.00,Married
+Madaline,Stevens,Female,24,m.stevens@randatmail.com,698-4922-18,Utah State University,Mediator,125200.78,172100.00,Single
+Savana,Kelley,Female,22,s.kelley@randatmail.com,421-1117-93,Virginia Tech,Education Researcher,125157.33,187000.00,Single
+Sienna,Brooks,Female,22,s.brooks@randatmail.com,018-8626-04,"University of Tennessee, Knoxville",Air Traffic Controller,125067.68,202285.00,Married
+Harold,Elliott,Male,25,h.elliott@randatmail.com,983-4907-30,University of Missouri,Patent Examiner,124675.63,180388.00,Married
+Arthur,Hawkins,Male,30,a.hawkins@randatmail.com,274-4872-82,Iowa State University,Air Safety Investigator,124221.08,163400.00,Single
+Stuart,Morgan,Male,24,s.morgan@randatmail.com,672-3229-86,University of Alabama at Birmingham,Foreign Affairs Personnel,123707.05,224020.00,Single
+Isabella,Kelley,Female,28,i.kelley@randatmail.com,179-3801-53,Colorado State University,Materials Engineer,123014.58,172100.00,Married
+Henry,Carroll,Male,19,h.carroll@randatmail.com,339-4620-62,"University of California, Los Angeles",Naval Architect,123013.85,161900.00,Single
+Violet,Clark,Female,18,v.clark@randatmail.com,954-8074-35,University of Nebraska-Lincoln,Foreign Agricultural Affairs Personnel,122967.66,187000.00,Married
+Lana,Ellis,Female,22,l.ellis@randatmail.com,919-2921-75,University of Miami,Plant Physiologist,122262.03,207800.00,Married
+Martin,Davis,Male,30,m.davis@randatmail.com,154-7927-48,Northern Arizona University,Transportation Industry Analyst,122236.03,161900.00,Married
+Oscar,Ellis,Male,19,o.ellis@randatmail.com,283-7871-07,Indiana University-Purdue University Indianapolis,Economist,121837.32,268306.00,Single
+Brooke,Stewart,Female,25,b.stewart@randatmail.com,274-9039-09,Oklahoma State University,Employee Benefits Lawyer,121701.60,187000.00,Single
+James,Cooper,Male,30,j.cooper@randatmail.com,226-9573-77,University of Pennsylvania,International Cooperation Personnel,121432.76,161900.00,Single
+Heather,Jones,Female,23,h.jones@randatmail.com,337-3163-52,Auburn University,Document Analyst,121048.54,161900.00,Married
+Harold,Walker,Male,26,h.walker@randatmail.com,778-1490-71,Washington State University,General Physical Scientist,120784.34,252450.00,Single
+Julian,Carter,Male,27,j.carter@randatmail.com,956-0676-10,Texas State University,Operations Researcher,120718.68,192522.00,Married
+Sarah,Crawford,Female,29,s.crawford@randatmail.com,359-8603-81,Brigham Young University-Idaho,International Relations Personnel,120633.86,187000.00,Single
+Amber,Evans,Female,33,a.evans@randatmail.com,262-0278-05,University of Massachusetts Amherst,Toxicologist,120248.84,250000.00,Married
+Thomas,Cunningham,Male,37,t.cunningham@randatmail.com,201-7283-89,James Madison University,Oceanographer,120141.37,187000.00,Married
+Garry,West,Male,33,g.west@randatmail.com,857-4671-25,Georgia Institute of Technology,Mathematical Statistician,119541.87,273345.00,Single
+Jessica,Chapman,Female,34,j.chapman@randatmail.com,493-8900-43,University of North Carolina at Chapel Hill,Geodesist,119130.06,163817.00,Married
+Melissa,Owens,Female,31,m.owens@randatmail.com,882-1396-31,Illinois State University,Health Physicist,118988.87,172100.00,Single
+Sofia,Parker,Female,38,s.parker@randatmail.com,867-7106-94,Florida State University,Fire Protection Engineer,118611.61,170305.00,Married
+Kate,Elliott,Female,36,k.elliott@randatmail.com,588-9821-46,East Carolina University,Pharmacist,118354.82,225000.00,Single
+Alberta,Sullivan,Female,39,a.sullivan@randatmail.com,931-4639-17,New York University,Geophysicist,117598.85,187500.00,Single
+Michelle,Morrison,Female,32,m.morrison@randatmail.com,491-2303-87,Louisiana State University,Chemical Engineer,117467.97,172546.00,Married
+Isabella,Miller,Female,37,i.miller@randatmail.com,958-7683-02,San Diego State University System,Marine Survey Technician,116784.28,161900.00,Married
+Miller,Walker,Male,38,m.walker@randatmail.com,235-2807-19,University of Delaware,Aviation Safety Personnel,116539.82,190165.00,Married
+Ryan,Cooper,Male,38,r.cooper@randatmail.com,170-6348-88,West Virginia University,Clothing Designer,115902.00,130311.00,Married
+Tony,Higgins,Male,30,t.higgins@randatmail.com,774-2020-81,University of New Hampshire,Dental Officer,115769.37,337925.00,Married
+Arthur,Armstrong,Male,37,a.armstrong@randatmail.com,912-7635-20,"University of Maryland, College Park",Navigational Information Personnel,115660.02,192301.00,Single
+Amber,Adams,Female,35,a.adams@randatmail.com,745-6733-35,University of North Dakota,Chemist,114912.01,270400.00,Married
+Elian,Edwards,Male,37,e.edwards@randatmail.com,137-5282-87,Tulane University of Louisiana,Accountant,114553.41,282080.00,Married
+Kevin,Higgins,Male,36,k.higgins@randatmail.com,758-7473-32,University of Louisville,Food Technologist,114335.09,163900.00,Married
+Victor,Montgomery,Male,37,v.montgomery@randatmail.com,515-3483-53,University of Rhode Island,Plant Pathologist,114085.25,207800.00,Single
+Jared,Robinson,Male,38,j.robinson@randatmail.com,629-7301-48,Temple University,Civil Rights Analyst,113979.89,162500.00,Single
+Sabrina,Hunt,Female,38,s.hunt@randatmail.com,365-3640-85,Texas Christian University,Labor-Management Relations Examiner,113875.28,161900.00,Single
+Grace,Ryan,Female,31,g.ryan@randatmail.com,566-6729-78,University of Wyoming,Trade Specialist,113843.20,163900.00,Single
+Dexter,Casey,Male,35,d.casey@randatmail.com,436-9913-98,Ohio University,Environmental Engineer,113467.57,206525.00,Single
+Arianna,Farrell,Female,32,a.farrell@randatmail.com,664-3333-85,"California Polytechnic State University, San Luis Obispo",Design Patent Examier,113459.88,170378.00,Single
+Arnold,Hill,Male,38,a.hill@randatmail.com,861-7309-43,Ball State University,Health Insurance Administrator,113201.84,167400.00,Married
+Daniel,Wright,Male,36,d.wright@randatmail.com,478-7534-33,Appalachian State University,Environmental Protection Specialist,113064.17,186898.00,Single
+Ted,Harrison,Male,40,t.harrison@randatmail.com,101-8710-74,Montana State University,Intaglio Press Operator,112554.96,155616.00,Single
+Eddy,Foster,Male,38,e.foster@randatmail.com,601-2252-53,Rutgers University,Education Programmer,112506.84,199700.00,Single
+Kelsey,Crawford,Female,40,k.crawford@randatmail.com,589-3839-10,Utah Valley University,Physiologist,112293.28,243595.00,Married
+Vivian,Williams,Female,31,v.williams@randatmail.com,056-8876-63,Missouri State University,Industrial Specialist,112104.18,194500.00,Single
+Andrew,Watson,Male,35,a.watson@randatmail.com,879-6142-67,University of Southern California,Architect,111974.66,197000.00,Single
+Robert,Taylor,Male,47,r.taylor@randatmail.com,155-1311-80,Grand Canyon University,Geneticist,111941.18,267800.00,Single
+Martin,Rogers,Male,43,m.rogers@randatmail.com,805-8761-76,Northeastern University,Podiatrist,111816.35,176853.00,Single
+Rubie,Wells,Female,40,r.wells@randatmail.com,636-4356-86,Syracuse University,Animal Scientist,111728.84,174612.00,Single
+Grace,Carroll,Female,47,g.carroll@randatmail.com,202-9238-18,University of Minnesota Twin Cities,Information Technology Manager,111107.05,278771.00,Married
+Miller,Ryan,Male,40,m.ryan@randatmail.com,607-0781-95,University of Oregon,Insurance Examiner,110917.25,162665.00,Single
+Arnold,Myers,Male,47,a.myers@randatmail.com,651-1007-38,University of Dayton,Auditor,110604.14,269600.00,Married
+Briony,Thompson,Female,41,b.thompson@randatmail.com,728-7368-16,Liberty University,Electrical Engineer,110571.63,209050.00,Single
+Kimberly,Riley,Female,41,k.riley@randatmail.com,334-1689-84,Boston University,Aircraft Operator,110533.48,186617.00,Single
+Ned,Dixon,Male,45,n.dixon@randatmail.com,300-6489-83,University of Kansas,Microbiologist,109754.61,260100.00,Married
+Emily,Roberts,Female,41,e.roberts@randatmail.com,525-5993-13,University of North Texas,Mechanical Engineer,109411.90,188000.00,Married
+Rosie,Johnson,Female,41,r.johnson@randatmail.com,035-9975-86,University of Texas at El Paso,Forest Products Technology Personnel,108798.52,155073.00,Single
+Amy,Thomas,Female,42,a.thomas@randatmail.com,921-0461-26,University of Illinois at Chicago,Highway Safety Personnel,108276.75,161900.00,Married
+Miller,Myers,Male,45,m.myers@randatmail.com,124-2180-19,University of North Carolina at Charlotte,Letterpress Operator,108182.09,146339.00,Single
+David,Adams,Male,48,d.adams@randatmail.com,318-5744-89,University of Washington,Petroleum Engineer,107932.87,190639.00,Single
+Samantha,Roberts,Female,40,s.roberts@randatmail.com,311-0627-20,Kansas State University,Workforce Development Personnel,107882.60,187000.00,Single
+Amelia,Brooks,Female,47,a.brooks@randatmail.com,231-0535-13,Villanova University,Entomology,107312.63,201086.00,Married
+Miley,Stewart,Female,45,m.stewart@randatmail.com,702-9671-63,University of Connecticut,Public Health Educator,107222.43,161900.00,Single
+Antony,Williams,Male,42,a.williams@randatmail.com,566-7745-38,Kennesaw State University,Equal Employment Opportunity Personnel,106919.58,234700.00,Single
+Robert,Mitchell,Male,46,r.mitchell@randatmail.com,772-2506-83,Wake Forest University,Safety Engineer,106869.68,187000.00,Married
+Lucas,Hill,Male,47,l.hill@randatmail.com,296-1070-22,Boise State University,Optometrist,106629.81,181445.00,Married
