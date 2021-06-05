@@ -28,4 +28,4 @@ const csv = fs
 
 // Output .db file for json-server
 // Doc: https://my-json-server.typicode.com/
-fs.writeFileSync('../db.json', JSON.stringify(csv.slice(0, 50)));
+fs.writeFileSync('../db.json', JSON.stringify(csv.slice(0, 30)));
