@@ -1,6 +1,6 @@
 import React from 'react';
 
-const Card = ({ children }) => {
+const Card = ({ children, gridRowEnd, gridRowStart, style }) => {
   return (
     <div
       className="content-card"
@@ -8,6 +8,9 @@ const Card = ({ children }) => {
         backgroundColor: '#FFF',
         borderRadius: '8px',
         padding: '3rem',
+        gridRowStart,
+        gridRowEnd,
+        ...style,
       }}
     >
       {children}

@@ -1,13 +1,11 @@
 import React, { useState, useEffect } from 'react';
 import axios from 'axios';
-import { Card, Overview, Layout } from './components';
-
-const DATA = require('./db.json');
-// console.log(DATA.map((item) => console.log(item.socialMedia)));
+import { Card, Overview, Layout, SocialMediaLogo } from './components';
+import SocialMediaCard from './components/SocialMediaCard/SocialMediaCard';
 
 const App = () => {
   const [userData, setUserData] = useState([]);
-  const userApi = 'https://randomuser.me/api';
+  const userApi = '/users/50';
 
   const getUser = async () => {
     const res = await axios.get(userApi);
@@ -16,8 +14,8 @@ const App = () => {
 
   useEffect(() => {
     getUser()
-      .then((user) => {
-        setUserData(user.results[0]);
+      .then((users) => {
+        setUserData(users);
       })
       .catch((err) => console.error(err));
   }, []);
@@ -26,10 +24,14 @@ const App = () => {
     return 'Loading...';
   }
 
+  console.log(userData);
   return (
     <Layout>
+      <Card gridRowStart="1" gridRowEnd="4">
+        <Overview data={userData} />
+      </Card>
       <Card>
-        <Overview {...userData} data={DATA} />
+        <SocialMediaCard platforms={userData.socialMedia} />
       </Card>
     </Layout>
   );

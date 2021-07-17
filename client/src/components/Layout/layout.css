@@ -1,5 +1,10 @@
 .layout {
+  display: grid;
+  grid-template-columns: 400px 1fr 1fr;
+  grid-template-rows: 1fr 1fr 1fr;
+  grid-gap: 1rem;
   padding: 2rem;
   min-height: 100vh;
-  background-color: #fef1ea;
+  /* background-color: #fef1ea; */
+  background-color: #f0f2f5;
 }
